@@ -1,0 +1,5 @@
+===
+
+default: -p preety -p homolog
+preety: --format preety
+homolog: AMBIENTE=homolog
